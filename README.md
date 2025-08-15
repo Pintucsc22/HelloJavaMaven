@@ -47,7 +47,7 @@ hello-java-maven/
 ---
 
 ## Screenshot
-(/jenkin.png)
+![Jenkins](/jenkin.png)
 
 ---
 
